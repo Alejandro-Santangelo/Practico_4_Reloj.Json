@@ -1,0 +1,25 @@
+{
+    "operaciones": [
+      {
+        "id":1,
+        "nombre": "suma",
+        "descripcion": "Realiza una suma entre dos números"
+      },
+      {
+        "id":2,
+        "nombre": "resta",
+        "descripcion": "Realiza una resta entre dos números"
+      },
+      {
+        "id":3,
+        "nombre": "multiplicacion",
+        "descripcion": "Realiza una multiplicación entre dos números"
+      },
+      {
+        "id":4,
+        "nombre": "division",
+        "descripcion": "Realiza una división entre dos números"
+      }
+    ]
+  }
+  
